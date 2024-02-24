@@ -23,7 +23,7 @@ knn.fit(X_train, Y_train)
 print(knn.predict(X_test))
 
 #Model accuracy
-
+#2024-02-24
 
 
 
