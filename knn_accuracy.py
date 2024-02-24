@@ -7,6 +7,7 @@ from sklearn.datasets import load_iris
 #Loading data
 irisData = load_iris()
 
+#Split data
 
 
 
