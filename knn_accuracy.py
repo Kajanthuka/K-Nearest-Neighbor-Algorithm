@@ -22,6 +22,8 @@ knn.fit(X_train, Y_train)
 # Predict on dataset which model has not seen before
 print(knn.predict(X_test))
 
+#Model accuracy
+
 
 
 
